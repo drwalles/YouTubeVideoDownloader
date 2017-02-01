@@ -1,0 +1,13 @@
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\bin\Debug\YouTubeVideoDownloader.exe.config
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\bin\Debug\YouTubeVideoDownloader.exe
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\bin\Debug\YouTubeVideoDownloader.pdb
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\bin\Debug\Newtonsoft.Json.dll
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\bin\Debug\YoutubeExtractor.dll
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\bin\Debug\Newtonsoft.Json.xml
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\bin\Debug\YoutubeExtractor.xml
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\obj\Debug\YouTubeVideoDownloader.csprojResolveAssemblyReference.cache
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\obj\Debug\YouTubeVideoDownloader.Form1.resources
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\obj\Debug\YouTubeVideoDownloader.Properties.Resources.resources
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\obj\Debug\YouTubeVideoDownloader.csproj.GenerateResource.Cache
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\obj\Debug\YouTubeVideoDownloader.exe
+c:\users\drw\documents\visual studio 2015\Projects\YouTubeVideoDownloader\YouTubeVideoDownloader\obj\Debug\YouTubeVideoDownloader.pdb
